@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: #34495e;
+}
+
+legend {
+    font-size: 2rem;
+}
+
+.inpt {
+    font-size: 1.5rem;
+    padding: 8px;
+}
+
+.form-control.is-invalid, .was-validated .form-control:invalid {
+    border-color: #e74c3c;
+}
+
+label {
+    font-size: 1.6rem;
+}
+
+form {
+    width: 45%;
+    margin: auto;
+}
+
+.formConnexion, .formInscription {
+    margin-top: 30px;
+    background-color: #FFF;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.boutonConnexion {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.6rem;
+}
+
+.fa-check {
+    font-size: 2rem;
+    color: #2ecc71;
+    margin-top: 5px;
+}
