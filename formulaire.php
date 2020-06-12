@@ -10,7 +10,7 @@
         <title>Entrainement Ajax</title>
     </head>
     <body>
-    <form class="formConnexion was-validated" method="post">
+    <!-- <form class="formConnexion was-validated" method="post">
         <fieldset>
             <legend class="legendConnexion"><?php echo strtoupper('connexion') ?></legend>
 
@@ -29,7 +29,7 @@
             <button type="submit" name="buttonCo" class="boutonConnexion btn btn-primary" id="boutonConnexion"><?php echo strtoupper('Se connecter') ?></button>
 
         </fieldset>
-    </form>
+    </form> -->
 
 
 
