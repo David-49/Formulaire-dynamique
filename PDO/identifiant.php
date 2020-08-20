@@ -1,4 +1,0 @@
-<?php
-
-$identifiant = 'root';
-$mdp = '';
